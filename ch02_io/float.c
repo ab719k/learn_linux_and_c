@@ -1,15 +1,16 @@
 /*
- * @filename int.c
- * @brief: Read integer value and the display the same on the screen
+ * @filename float.c
+ * @brief: Read float value and the display the same on the screen
  * */
 
 
 #include <stdio.h>
 int main()
 {
-    // declaration and definition of integer variables
+    // declaration and definition of float variables
     // multiple declarations and definitions examples
-    //int i, _d45, myValue;
+    //float speed, time, distance;
+    // 
 
 	// read a variable using scanf remeber we need to use 
 	// type specifier for reading and storing the variable
@@ -19,6 +20,14 @@ int main()
 	// d -> integer
 	// f -> float
 	// d -> double
+	
+	// Can you calculate the speed by first asking
+	// the user to enter the distance travelled
+	// then ask about the time
+	// calculate speed = distance/time.
+	// Try keeping distance and time integer values and then see 
+	// if you can divide.
+
  
     // Let us print a variable using printf
     // you need to use the type specifier for printing as well

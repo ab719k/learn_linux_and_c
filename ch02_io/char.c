@@ -1,15 +1,15 @@
 /*
- * @filename int.c
- * @brief: Read integer value and the display the same on the screen
+ * @filename char.c
+ * @brief: Read char value and the display the same on the screen
  * */
 
 
 #include <stdio.h>
 int main()
 {
-    // declaration and definition of integer variables
+    // declaration and definition of char variables
     // multiple declarations and definitions examples
-    //int i, _d45, myValue;
+    //char i, _d45, myValue;
 
 	// read a variable using scanf remeber we need to use 
 	// type specifier for reading and storing the variable

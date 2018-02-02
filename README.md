@@ -6,7 +6,8 @@ Programming in C
 
 
 ## ch01 Basic Program
-Hello World
+Hello World.
+
 Learn vi editor to open a file, write a program, save the file.
 Print Hello world on the console
 Understand new line character

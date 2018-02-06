@@ -6,25 +6,24 @@ Programming in C
 
 
 ## ch01 Basic Program
-Hello World.
+### Hello World.
+First things first: Learn vi editor to open a file, write a program, save the file.
+Compile the program - gcc and the default makefile.
+Print Hello world on the console.
+Print formatting: Understand new line character.
+Preprocessor: Concept of #include.
 
-Learn vi editor to open a file, write a program, save the file.
-Print Hello world on the console
-Understand new line character
-Concept of #include
-
-## ch02 IO
-Input output
+### Input output
 Scanf, printf
 Getc, putc
 Getchar, putchar
 
 ## ch03 Types & Variable
-Basic Types & variables 
-char, float, int, double 
+Basic Types & variables  
+ char, int, float, double 
 Preprocessor #define
-Understand concept of variable and how it store different values 
-Print Formatting of different variables.
+Variables and associated memory 
+Print Formatting of different variables. %c, %f, %d
 Understand concept of memory as in how the variables are stored in memory 
 Assignments, Expressions
 
@@ -32,19 +31,21 @@ Assignments, Expressions
 Addition, Subtraction, Division, Multiplications, Modulus
 Comparison Operator ==
 Logical Operations
+Unary operators
 Bitwise Operators
-Control Statement
 
-## Conditional
+## Control Statement
+### Decision/ Conditional
 if statement
 if else
 if elif
-Preprocessor directive #ifdef, #if
+Preprocessor directive #ifdef, #if, #elif, #endif
 
-## Loop
-While
-For
-Do until
+### Loop
+While Loop
+For 
+Do Until
+
 
 ## Functions
 Anatomy of Functions
@@ -74,9 +75,14 @@ Deadlock
 Socket communications
 
 
-## Linux Kernel
 
 ## System Library functions
+
+
+
+## Linux Kernel
+
+    
 
 
 

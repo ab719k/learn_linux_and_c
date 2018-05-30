@@ -5,7 +5,7 @@ Teach yourself C Programming
 Programming in C
 
 
-## ch01 Basic Program
+## ch01 Introduction to C
 ### Hello World.
 First things first: Learn vi editor to open a file, write a program, save the file.
 Compile the program - gcc and the default makefile.
@@ -18,7 +18,7 @@ Scanf, printf
 Getc, putc
 Getchar, putchar
 
-## ch03 Types & Variable
+###  Types & Variable
 Basic Types & variables  
  char, int, float, double 
 Preprocessor #define
@@ -27,14 +27,14 @@ Print Formatting of different variables. %c, %f, %d
 Understand concept of memory as in how the variables are stored in memory 
 Assignments, Expressions
 
-## ch04 Operators 
+### Operators 
 Addition, Subtraction, Division, Multiplications, Modulus
 Comparison Operator ==
 Logical Operations
 Unary operators
 Bitwise Operators
 
-## Control Statement
+## ch02 Control Statement
 ### Decision/ Conditional
 if statement
 if else
@@ -45,24 +45,47 @@ Preprocessor directive #ifdef, #if, #elif, #endif
 While Loop
 For 
 Do Until
+Infinite loop
 
 
-## Functions
-Anatomy of Functions
+## ch03 Functions
+
+### Anatomy of Functions
+Functiona Declaration vs Definition
 Handling return values
 
-## Pointers
+### Recursion
+Recursive Functions
+
+### Standard Library
+System provided Functions
+Using Standard library functions
+
+## cho04 Pointers
+### What is a pointer
 Array
 Strings
 Memory
 
-## File Handling
+
+### File Handling
 File Input Output
 Reading From a file
 Writing to a file
 
-## Process (Linux)
+## ch05 Process (Linux)
+### Process State
+Fork
+Child process/Parent process
+Process vs Thread
+
+### IPC
 Inter process communications
+
+### Shared Memory
+Reader Writer Process
+
+### Message Queue
 
 
 ## Multithreading

@@ -6,51 +6,40 @@ Programming in C on Linux Operating System
 
 
 ## ch01 Introduction to C
-### Hello World.
-Introduction to Programming
+Introduction to Programming "Hello World."<br/>
 First things first: Learn vi editor to open a file, write a program, save the file.
-### Compiling your first program
-Compile the program - gcc and the default makefile.
-### Executing your first program
-Print Hello world on the console.
-Print formatting: Understand new line character.
-Preprocessor: Concept of #include.
-Use of 'make' to build a program
+Compiling your first program - gcc and the default makefile.<br/>
+Executing your first program.<br/>
+Print formatting: Understand new line character.<br/>
+Preprocessor: Concept of #include.<br/>
+Use of 'make' to build a program<br/>
 
 ## ch02 Input output
-
-### Standard IO
-Getc, putc
-Getchar, putchar
-
-### Formatted I/O Functions
-Writing to output printf
-Reading User Input scanf
+Standard I/O: Getc, putc,  Getchar, putchar<br/>
+Formatted I/O Functions : Writing to output printf, Reading User Input scanf <br/>
 
 ## Character Set
-Character Set Encoding
-String Constants
+Character Set Encoding <br/>
+String Constants<br/>
 
 ## ch03 Types & Variable
-Basic Types & variables  
-char, int, float, double 
-Preprocessor #define
-Variables and associated memory 
-Print Formatting of different variables. %c, %f, %d
-Understand concept of memory as in how the variables are stored in memory 
-Assignments, Expressions
+Basic Types & variables: char, int, float, double <br/>
+Preprocessor #define <br/>
+Variables and associated memory <br/>
+Print Formatting (contd) %c, %f, %d <br/>
+Understand concept of memory as in how the variables are stored in memory <br/>
+Assignments, Expressions <br/>
 
 ## ch04 Operators 
-Addition, Subtraction, Division, Multiplications, Modulus (+, -, *, /, %)
-Comparison Operator ==
-Logical Operations &&, ||
-Unary operators *, &
-Bitwise Operators &, |, ~, ^
+Addition, Subtraction, Division, Multiplications, Modulus (+, -, *, /, %) <br/>
+Comparison Operator == <br/>
+Logical Operations &&, ||<br/>
+Unary operators *, & <br/>
+Bitwise Operators &, |, ~, ^<br/>
 
 ## ch05 Control Statement
-### Decision/ Conditional
-if statement
-if else
+Decision/ Conditional
+if statement, if else
 Preprocessor directive #define, #ifdef, #if, #elif, #endif
 
 ### Loop
